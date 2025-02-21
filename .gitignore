@@ -1,0 +1,6 @@
+data/wallets.db
+proxy.txt
+wallets.txt
+supervisord.log
+supervisord.pid
+node_modules

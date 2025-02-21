@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  brian-app:
+    build: .
+    container_name: brian_knows
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=production
+    restart: always

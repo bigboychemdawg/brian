@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "eth-sig-util": "^3.0.1",
+    "ethers": "^6.13.5",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.7.0",
+    "socks-proxy-agent": "^8.0.5",
+    "table": "^6.9.0",
+    "web3": "^4.16.0"
+  }
+}
